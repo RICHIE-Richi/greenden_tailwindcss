@@ -15,7 +15,6 @@ GreenDen is a sleek and responsive website designed using **HTML and Tailwind CS
 ✔️ Smooth navigation  
 
 📌 Feel free to explore and contribute!  
-🔗 Live Demo: [Your Demo Link]  
-💻 GitHub Repo: [Your GitHub Link]  
+🔗 Live Demo: (https://richie-richi.github.io/greenden_tailwindcss/)
 
 Let me know if you need any modifications! 🚀
